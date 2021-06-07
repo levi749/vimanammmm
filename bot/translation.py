@@ -7,10 +7,11 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+നീ ഏതാ മോനൂസെ എന്നെ CINEMA LOKAM ഗ്രൂപ്പിലേക്ക് മാത്രമേ ഉപയോഗിക്കാൻ പറ്റൂ...
+വെറുതെ സമയം കളയാൻ നിൽക്കണ്ട...വേഗം ഗ്രൂപ്പിലേക്ക് വിട്ടോ സിനിമ അവിടെ കിട്ടും...
 
-For More Details Click Help Button Below..
-@CrazyBotsz
+
+@Cl_chatgrp
 </i>"""    
     
     HELP_TEXT = """
@@ -42,13 +43,12 @@ For More Details Click Help Button Below..
             -> <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
-            
-@CrazyBotsz
+ @cl_chatgrp       
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Levinomad_TG">Messi</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
